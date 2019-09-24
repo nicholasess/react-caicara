@@ -23,7 +23,7 @@ Esse é link: https://github.com/nicholasess/react-caicara/issues.
 
 A "#" seguida de número representa o meetup que será realizado e os comentários dentro da issue representa os temas que as pessoas querem falar, então basta comentar seu tema e boa sorte
 
-### Quando acontece os meetups?
+### Quando acontecem os meetups?
 
 Sempre que fecharmos a quantidade exata de palestrantes, local e/ou coffebreak.
 
@@ -34,7 +34,7 @@ React Caiçara WhatsApp: https://chat.whatsapp.com/CTYYwLMHTYXCsQOeb5FT5F
 #### React Brasil
 
 Slack: https://react.now.sh
-Medium: https://medium.com/reactbrasil 
+Medium: https://medium.com/reactbrasil
 Vagas: https://github.com/react-brasil/vagas
 Facebook: https://www.facebook.com/groups/reactjsbrasil/
 Documentação em Português: https://pt-br.reactjs.org/
