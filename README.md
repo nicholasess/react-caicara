@@ -19,7 +19,8 @@ Qualquer pessoa que queira disseminar conhecimento que seja sobre React, React N
 
 ### Como posso submeter minha palestra?
 
-Esse é link: https://github.com/nicholasess/react-caicara/issues
+Esse é link: https://github.com/nicholasess/react-caicara/issues.
+
 A "#" seguida de número representa o meetup que será realizado e os comentários dentro da issue representa os temas que as pessoas querem falar, então basta comentar seu tema e boa sorte
 
 ### Quando acontece os meetups?
